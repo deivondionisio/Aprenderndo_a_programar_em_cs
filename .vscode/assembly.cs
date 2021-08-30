@@ -20,15 +20,15 @@ using System;
 
                 return result;
             }
-        class Entry
-        {
-            public Entry Next { get; set; }
-            public T Data { get; set; }
-            public Entry(Entry next, T data)
+            class Entry
             {
-                Next = next;
-                Data = data;
-            }
+                public Entry Next { get; set; }
+                public T Data { get; set; }
+                public Entry(Entry next, T data)
+                {
+                    Next = next;
+                    Data = data;
+                }
             }
         }
     }
