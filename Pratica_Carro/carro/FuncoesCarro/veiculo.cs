@@ -9,3 +9,11 @@ namespace carro.FuncoesCarro
         public string Buzinar() => Ligado;
     }
 }
+
+public class Moto : Veiculo
+{
+    public override string Buzinar()
+    {
+        return "Bi-Bi";
+    }
+}
