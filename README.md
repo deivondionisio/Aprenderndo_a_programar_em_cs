@@ -1,6 +1,10 @@
-# Aprenderndo_a_programar_em_cs
+# Aprendendo Programação C#
 
 ## Tópicos abordados no aprendizado
+
+### Definição
+
+C# é uma linguagem de programação moderna Orientada a Objetos, Orientada a componentes e fortemente tipada.
 
 ### Variáveis, Constantes e tipo de dados
 
