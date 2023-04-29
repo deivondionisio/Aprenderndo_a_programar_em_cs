@@ -8,18 +8,18 @@ C# é uma linguagem de programação moderna Orientada a Objetos, Orientada a co
 
 ### Variáveis, Constantes e tipo de dados
 
-> * Tipos de Dados
+> * [Tipos de Dados](#tipo-dados)
 > * [Managed Disks](#managed-disks)
-> * Tipos Numericos Inteiros
-> * Tipos Numericos Reais
-> * Tipo Caractere
-> * Tipo Bolean
-> * Tipo String
-> * Tipo Var
-> * Tipo Object
-> * Constantes
-> * Enum
-> * Struct
+> * [Tipos Numericos Inteiros](#numericos-inteiros)
+> * [Tipos Numericos Reais](#numericos-reais)
+> * [Tipo Caractere](#tipo-caractere)
+> * [Tipo Bolean](#tipo-bolean)
+> * [Tipo String](#tipo-string)
+> * [Tipo Var](#tipo-var)
+> * [Tipo Object](#tipo-object)
+> * [Constantes](#constantes)
+> * [Enum](#enum)
+> * [Struct](#struct)
 ---
 ### Saida de Dados
 
