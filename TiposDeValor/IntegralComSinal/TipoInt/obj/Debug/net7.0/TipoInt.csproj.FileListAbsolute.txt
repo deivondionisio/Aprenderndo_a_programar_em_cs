@@ -1,0 +1,15 @@
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.csproj.AssemblyReference.cache
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.AssemblyInfoInputs.cache
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.AssemblyInfo.cs
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.csproj.CoreCompileInputs.cache
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/bin/Debug/net7.0/TipoInt
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/bin/Debug/net7.0/TipoInt.deps.json
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/bin/Debug/net7.0/TipoInt.runtimeconfig.json
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/bin/Debug/net7.0/TipoInt.dll
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/bin/Debug/net7.0/TipoInt.pdb
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.dll
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/refint/TipoInt.dll
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.pdb
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/TipoInt.genruntimeconfig.cache
+/workspaces/Aprenderndo_a_programar_em_cs/TiposDeValor/IntegralComSinal/TipoInt/obj/Debug/net7.0/ref/TipoInt.dll
