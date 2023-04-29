@@ -9,6 +9,7 @@ C# é uma linguagem de programação moderna Orientada a Objetos, Orientada a co
 ### Variáveis, Constantes e tipo de dados
 
 > * Tipos de Dados
+> * [Managed Disks](#managed-disks)
 > * Tipos Numericos Inteiros
 > * Tipos Numericos Reais
 > * Tipo Caractere
