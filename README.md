@@ -9,7 +9,7 @@ C# é uma linguagem de programação moderna Orientada a Objetos, Orientada a co
 
 * Integral com sinal:
 
-> * [_sbyte_](https://markdown.net.br)
+> * [_sbyte_](https://github.com/deivondionisio/Aprenderndo_a_programar_em_cs/blob/main/TiposDeValor/IntegralComSinal/TipoSbyte/Program.cs)
 > * [_short_](#short)
 > * [_int_](#int)
 > * [_long_](#long)
