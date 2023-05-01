@@ -1,5 +1,12 @@
 ﻿// Exemplo tipo Byte
 
-byte a = 255;
-
-Console.WriteLine("a");
+namespace MeuApp
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            byte meuByte = 127;
+        }
+    }
+}

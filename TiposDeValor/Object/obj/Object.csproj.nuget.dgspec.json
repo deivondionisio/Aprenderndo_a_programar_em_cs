@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\TipoSbyte.csproj": {}
+    "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Object\\Object.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\TipoSbyte.csproj": {
+    "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Object\\Object.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\TipoSbyte.csproj",
-        "projectName": "TipoSbyte",
-        "projectPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\TipoSbyte.csproj",
+        "projectUniqueName": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Object\\Object.csproj",
+        "projectName": "Object",
+        "projectPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Object\\Object.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\obj\\",
+        "outputPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Object\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

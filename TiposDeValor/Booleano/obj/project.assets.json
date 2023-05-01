@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\TipoSbyte.csproj",
-      "projectName": "TipoSbyte",
-      "projectPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\TipoSbyte.csproj",
+      "projectUniqueName": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Booleano\\Booleano.csproj",
+      "projectName": "Booleano",
+      "projectPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Booleano\\Booleano.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\IntegralComSinal\\TipoSbyte\\obj\\",
+      "outputPath": "C:\\Users\\david\\source\\repos\\Aprenderndo_a_programar_em_cs\\TiposDeValor\\Booleano\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
